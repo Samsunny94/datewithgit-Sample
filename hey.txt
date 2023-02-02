@@ -3,3 +3,5 @@ hey friends how are you
 this file was edited and commited from master branch tooday
 
 this is again to  test the conflict situation , so we are modifiying the hey file from feature branch and commmit
+
+/new line on clone file
