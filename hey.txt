@@ -7,3 +7,6 @@ this file was edited and commited from master branch tooday
 
 this is again to  test the conflict situation , so we are modifiying the hey file from feature branch and commmit
 >>>>>>> master
+
+
+hey file is again modified afterr learning git push command
